@@ -14,6 +14,7 @@
 		4D0F2A4A1C6632EF0042B98C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D0F2A481C6632EF0042B98C /* LaunchScreen.storyboard */; };
 		4D0F2A551C6632EF0042B98C /* dentakuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0F2A541C6632EF0042B98C /* dentakuTests.swift */; };
 		4D0F2A601C6632EF0042B98C /* dentakuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0F2A5F1C6632EF0042B98C /* dentakuUITests.swift */; };
+		4D73F23B1C6723900014FA88 /* キラキラ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D73F23A1C6723900014FA88 /* キラキラ.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4D0F2A5B1C6632EF0042B98C /* dentakuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dentakuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D0F2A5F1C6632EF0042B98C /* dentakuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dentakuUITests.swift; sourceTree = "<group>"; };
 		4D0F2A611C6632EF0042B98C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D73F23A1C6723900014FA88 /* キラキラ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "キラキラ.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		4D0F2A3E1C6632EF0042B98C /* dentaku */ = {
 			isa = PBXGroup;
 			children = (
+				4D73F23A1C6723900014FA88 /* キラキラ.jpg */,
 				4D0F2A3F1C6632EF0042B98C /* AppDelegate.swift */,
 				4D0F2A411C6632EF0042B98C /* ViewController.swift */,
 				4D0F2A431C6632EF0042B98C /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				4D0F2A4A1C6632EF0042B98C /* LaunchScreen.storyboard in Resources */,
 				4D0F2A471C6632EF0042B98C /* Assets.xcassets in Resources */,
 				4D0F2A451C6632EF0042B98C /* Main.storyboard in Resources */,
+				4D73F23B1C6723900014FA88 /* キラキラ.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -482,6 +486,7 @@
 				4D0F2A661C6632EF0042B98C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D0F2A671C6632EF0042B98C /* Build configuration list for PBXNativeTarget "dentakuTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +495,7 @@
 				4D0F2A691C6632EF0042B98C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D0F2A6A1C6632EF0042B98C /* Build configuration list for PBXNativeTarget "dentakuUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +504,7 @@
 				4D0F2A6C1C6632EF0042B98C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
